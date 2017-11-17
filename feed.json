@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "earthrouteorg",
+    "description": "",
+    "home_page_url": "https://tanyaroy3112.github.io",
+    "feed_url": "https://tanyaroy3112.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "vidya"
+    },
+    "items": [
+        {
+            "id": "https://tanyaroy3112.github.io/the-wonderful-life-at-spiti.html",
+            "url": "https://tanyaroy3112.github.io/the-wonderful-life-at-spiti.html",
+            "title": "the wonderful life at spiti",
+            "content_html": "ddfgdfgfd fgfgfdgfsdgdfs fdgfsdgfsdgfsddfgfdsgfsdgfds",
+            "image": "https://tanyaroy3112.github.io/media/posts/1/IMG_0679.JPG",
+            "author": {
+                "name": "vidya"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-11-17T13:45:55+05:30",
+            "date_modified": "2017-11-17T13:46:02+05:30"
+        }
+    ]
+}
